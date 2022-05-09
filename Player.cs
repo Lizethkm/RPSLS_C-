@@ -1,8 +1,19 @@
 ﻿using System;
 
-public class Class1
+public class Player
+	//Base Class aka Parent Class
 {
-	public Class1()
+	public Player()
 	{
+		// member variables
+		public string wins
+		public string gestures
+
+
+		// constructor
+
+
+
+		// member methods
 	}
 }

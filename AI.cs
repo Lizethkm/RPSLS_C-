@@ -1,8 +1,20 @@
 ﻿using System;
 
-public class Class1
+public class AI
 {
-	public Class1()
+	public AI()
 	{
+
+		// member variables
+
+
+
+		// constructor 
+
+
+
+		// member methods
+
+
 	}
 }

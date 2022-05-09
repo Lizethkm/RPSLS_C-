@@ -1,8 +1,20 @@
 ﻿using System;
 
-public class Class1
+public class Game
 {
-	public Class1()
+	public Game()
 	{
+
+		// member variables 
+
+
+		
+		// constructor 
+
+
+
+		// member methods 
+
+
 	}
 }

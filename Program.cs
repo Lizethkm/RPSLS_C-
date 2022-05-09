@@ -1,8 +1,12 @@
 ﻿using System;
 
-public class Class1
+namespace Program
 {
-	public Class1()
+	class Program
 	{
+		static void Main(string[] args)
+        {
+
+        }
 	}
 }
